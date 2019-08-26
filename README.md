@@ -1,2 +1,53 @@
 # Leetcode
 Repository to store Leetcode answers made for CICCC
+
+Questions in this Repo:
+- Design Linked List
+- House Robber
+- Minimum Depth of a Binary Tree
+- Reverse Integer
+- Reverse Linked List
+- Rotting Oranges
+- Unique Paths
+- Add Digits
+- Balanced Binary Tree
+- Baseball Game
+- Binary Tree Paths
+- Climbing Stairs
+- Contains Duplicate
+- Convert Sorted Array To Binary Search Tree
+- Fibonacci Number
+- Find the Duplicate Number
+- Intersection of Two Linked Lists
+- Invert Binary Tree
+- Leaf-Similar Trees
+- Length Of Last Word
+- Linked List Cycle
+- Linked List Cycle II
+- Maximum Depth of Binary Tree
+- Merge Sorted Array
+- Merge Two Sorted Lists
+- Missing Number
+- Move Zeroes
+- Nim Game
+- Number Complements
+- Pascal's Triangle
+- Pascal's Triangle II
+- Path Sum
+- Path Sum II
+- Path Sum III
+- Plus One
+- Power Of Two
+- Print In Order
+- Range Sum Query-Immutable
+- Remove Duplicates From Sorted List
+- Remove Duplicates From Sorted List II
+- Remove Linked List Elements
+- Reverse String
+- Same Tree
+- Search In A Binary Search Tree
+- Search Insert Position
+- Symmetric Tree
+- Unique Paths II
+- Valid Parentheses
+- X Of A Kind In A Deck Of Cards
